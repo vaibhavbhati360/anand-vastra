@@ -1,0 +1,7 @@
+:HL["/anand-vastra/_next/static/chunks/2k4cdsrughzz8.css","style"]
+:HL["/anand-vastra/_next/static/media/0393adb6c4b80dbd-s.p.0zem_9y19rte6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anand-vastra/_next/static/media/278a9fa4a156c562-s.p.27vw08z6_vw0m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anand-vastra/_next/static/media/70df8053de025513-s.p.2fp922fonczfn.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/anand-vastra/_next/static/media/f25dee53ed59e80e-s.p.2wff_81h8x61u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"0dYmoalm6hKoBlwEuCGYa","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
